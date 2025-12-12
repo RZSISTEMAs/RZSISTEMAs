@@ -63,7 +63,7 @@ Nossa caixa de ferramentas é composta pelas tecnologias mais respeitadas e pode
 ## 📊 Performance e Métricas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RZSISTEMAs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RZSISTEMAs&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RZSISTEMAs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Languages" />
 </div>
 
