@@ -62,8 +62,12 @@ Nossa caixa de ferramentas é composta pelas tecnologias mais respeitadas e pode
 
 ### Performance e Métricas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RZSISTEMAs&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RZSISTEMAs&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RZSISTEMAs/RZSISTEMAs/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="220" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/RZSISTEMAs/RZSISTEMAs/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/RZSISTEMAs/RZSISTEMAs/main/profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
+</div>
 
 <br />
 
